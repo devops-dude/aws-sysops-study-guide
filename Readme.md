@@ -1,3 +1,2 @@
-Amazon System Operators Associate Study Guide
 
-[AWS System Operators Associate Study Guide](https://github.com/devops-dude/aws-sysops-study-guide/wiki)
+[AWS System Operators Associate Study Guide - Wiki](https://github.com/devops-dude/aws-sysops-study-guide/wiki)
